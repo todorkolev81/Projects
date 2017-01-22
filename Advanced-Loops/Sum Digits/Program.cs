@@ -17,6 +17,7 @@ namespace Sum_Digits
                 sum = sum + (n % 10);
                 n = n / 10;
             }
+
             Console.WriteLine("Sum of dights: " + sum);
         }
     }
