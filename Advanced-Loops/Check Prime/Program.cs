@@ -32,11 +32,7 @@ namespace Check_Prime
                 }
                 else
                 {
-
                     Console.WriteLine("Not prime");
-
-
-
                 }
             }
         }
