@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangle of Dollars", "Tria
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "square frame", "square frame\square frame.csproj", "{FCE7CA61-F683-44DE-BF8D-6C2440387EA1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rhombus of Stars", "Rhombus of Stars\Rhombus of Stars.csproj", "{6CE37EAB-849B-4794-9E24-DF9C9C74ACD9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{FCE7CA61-F683-44DE-BF8D-6C2440387EA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FCE7CA61-F683-44DE-BF8D-6C2440387EA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FCE7CA61-F683-44DE-BF8D-6C2440387EA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CE37EAB-849B-4794-9E24-DF9C9C74ACD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CE37EAB-849B-4794-9E24-DF9C9C74ACD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CE37EAB-849B-4794-9E24-DF9C9C74ACD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CE37EAB-849B-4794-9E24-DF9C9C74ACD9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
